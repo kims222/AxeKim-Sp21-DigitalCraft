@@ -1,0 +1,28 @@
+body{
+	font-family: "Crimson Text", serif;
+}
+
+ul{
+	list-style-type: none;
+	font-size: 18px;
+}
+
+
+
+nav ul li{
+	display: inline;
+	padding-left: 30px;
+}
+
+h1{
+	font-size: 20px;
+	text-align: center;
+}
+
+h2{
+	font-size: 28px;
+}
+
+p{
+
+}
